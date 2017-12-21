@@ -1,1 +1,15 @@
+
 This is a readme file
+#项目名称:
+##环境
+
+mysql  5.7
+ruby 2.21
+
+
+服务器登陆方式
+
+ssh  root@jjjj -p
+ 
+ password 1111
+
